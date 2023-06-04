@@ -1,0 +1,19 @@
+1. Implement a stack using an array, and provide the methods push, pop, and peek.
+
+2. Implement a stack using a linked list, and provide the methods push, pop, and peek.
+
+3. Given a string of parentheses, brackets, and braces, determine if the string is balanced. That is, all opening symbols have corresponding closing symbols, and they appear in the correct order. For example, "({}[()])" is balanced, but "({)}[]" is not.
+
+4. Given a postfix expression (also known as reverse Polish notation), evaluate the expression using a stack. For example, given the input "2 3 * 4 +", the output should be 10.
+
+5. Implement a function that takes a string of integers and operators (e.g., "3 4 5 + *"), and uses a stack to evaluate the expression. Assume that the input is a valid postfix expression.
+
+6. Implement a function to convert an infix expression to postfix notation. Assume that the input is a valid infix expression, and that the operands are single-digit integers.
+
+7. Implement a function to evaluate an infix expression using a stack. Assume that the input is a valid infix expression, and that the operands are single-digit integers.
+
+8. Implement a function to reverse a stack without using any extra data structures. You can only use the stack itself (i.e., push, pop, and peek operations).
+
+9. Given two stacks that are initially empty, implement a queue using the two stacks. The queue should support the methods enqueue and dequeue.
+
+10. Given a stack of integers, sort the stack using only one additional stack. You can use the push, pop, and peek operations on both stacks, but no other data structures.
